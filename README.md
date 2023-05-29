@@ -1,5 +1,5 @@
 # Hello and welcome! ✨ ✨ ✨
-## Hi, I’m @aniyavolfman.
+## Hi, I’m Anna Volfman.
 I admire Java Script and am a highly motivated developer deeply passionate about my craft.
 <br> I always think outside the box, like to study and code.
 ## As a Front-End Developer | Full-Stack Developer, I want to extend a warm welcome to all visitors of this repository.
