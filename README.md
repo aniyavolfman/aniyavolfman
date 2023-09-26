@@ -7,8 +7,10 @@ I believe in the power of clean code, intuitive user experiences, and pushing th
 Feel free to explore the projects, dive into the code, and provide any feedback or suggestions you may have.
 ## My technology stack:
 
-<img src="/images/w3_html5-ar21.png" height="30">
-<img src="/images/CSS3-Interview-Questions-1.jpg" height="30">
+•<img src="/images/w3_html5-ar21.png" height="30">
+•<img src="/images/CSS3-Interview-Questions-1.jpg" height="30">
+•<img src="/images/java-script.jpg" height="30">
+
 • JavaScript;
 • Next.js 13;
 • React;
