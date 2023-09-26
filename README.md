@@ -28,11 +28,17 @@ Feel free to explore the projects, dive into the code, and provide any feedback 
 •<img src="/images/1_-5w8bX-XiOtwdmhQ2W7_TA.png" height="30">
 •<img src="/images/1_acfAKaDI7uv5GyFnJmiPhA.png" height="30">
 
-## Some projects
-### -[Go-volunteer - a website for charity organization](https://www.go-volonteer.in.ua/). 
-### -[Promptopia is an open-source AI prompting tool for modern world to discover, create and share creative prompts.](https://promptopia-eight-sigma.vercel.app/). 
+## Some projects:
+### -[Go-volunteer - a website for charity organization](https://www.go-volonteer.in.ua/); 
+### -[Promptopia is an open-source AI prompting tool for modern world to discover, create and share creative prompts.](https://promptopia-eight-sigma.vercel.app/); 
+### -[SlimMom - application for health](https://aniyavolfman.github.io/health-app-project/);
+### -[Filmoteka - a site for searching films.](https://aniyavolfman.github.io/filmoteka/);
+### -[Phonebook](https://aniyavolfman.github.io/goit-react-hw-08-phonebook/);
+### -[Search images](https://aniyavolfman.github.io/search-images/);
+### -[Web Studio](https://aniyavolfman.github.io/goit-markup-hw-08/index.html);
+### -[Ice Cream - a site for an ice cream shop.](https://aniyavolfman.github.io/goit-markup-hw-08/index.html);
 
-## Thank you for stopping by, and I hope you enjoy your time here!
+Thank you for stopping by, and I hope you enjoy your time here!
 
 <pre>Best regards,
 Anna</pre>
