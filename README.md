@@ -26,7 +26,7 @@ Feel free to explore the projects, dive into the code, and provide any feedback 
 •<img src="/images/1_acfAKaDI7uv5GyFnJmiPhA.png" height="30">
 •<img src="/images/8e909c88-4e83-4af4-b5b2-4a50a9b571f7-cover.png" height="30">
 
-<ul><li><img src="/images/1_acfAKaDI7uv5GyFnJmiPhA.png" height="30"></li><li><img src="/images/8e909c88-4e83-4af4-b5b2-4a50a9b571f7-cover.png" height="30"></li></ul>
+<ul style="list-style-type: none; padding-left: 5px;"><li><img src="/images/1_acfAKaDI7uv5GyFnJmiPhA.png" height="30"></li><li><img src="/images/8e909c88-4e83-4af4-b5b2-4a50a9b571f7-cover.png" height="30"></li></ul>
 
 Thank you for stopping by, and I hope you enjoy your time here!
 
