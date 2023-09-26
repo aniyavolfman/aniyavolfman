@@ -17,6 +17,8 @@ Feel free to explore the projects, dive into the code, and provide any feedback 
 •<img src="/images/java-script.jpg" height="30">
 •<img src="/images/1_jvXSiyAs8vZgT1PFV-bPQQ.png" height="30">
 •<img src="/images/reactjs-2.png" height="30">
+•<img src="/images/meta.png" height="30">
+•<img src="/images/8e909c88-4e83-4af4-b5b2-4a50a9b571f7-cover.png" height="30">
 •<img src="/images/1683961037831.png" height="30">
 •<img src="/images/завантаження2.jpg" height="30">
 •<img src="/images/завантаження.jpg" height="30">
@@ -25,9 +27,6 @@ Feel free to explore the projects, dive into the code, and provide any feedback 
 •<img src="/images/strapi.jpg" height="30">
 •<img src="/images/1_-5w8bX-XiOtwdmhQ2W7_TA.png" height="30">
 •<img src="/images/1_acfAKaDI7uv5GyFnJmiPhA.png" height="30">
-•<img src="/images/8e909c88-4e83-4af4-b5b2-4a50a9b571f7-cover.png" height="30">
-
-<ul style="list-style-type: none; padding-left: 5px;"><li style="list-style-type: none; padding-left: 5px;"><img src="/images/1_acfAKaDI7uv5GyFnJmiPhA.png" height="30"></li><li><img src="/images/8e909c88-4e83-4af4-b5b2-4a50a9b571f7-cover.png" height="30"></li></ul>
 
 Thank you for stopping by, and I hope you enjoy your time here!
 
