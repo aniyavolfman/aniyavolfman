@@ -1,8 +1,8 @@
-# Hello and welcome! ✨ ✨ ✨
+# Hello and welcome! ✨ 
 ## Hi, I’m Anna Volfman.
 I admire Java Script and am a highly motivated developer deeply passionate about my craft.
 <br> I always think outside the box, like to study and code.
-## As a Front-End Developer | Full-Stack Developer, I want to extend a warm welcome to all visitors of this repository.
+## As a Full-Stack Developer, I want to extend a warm welcome to all visitors of this repository.
 Here you will find an array of front-end, back-end and fullstack projects, showcasing my skills and passion for creating beautiful and interactive web interfaces. 
 I believe in the power of clean code, intuitive user experiences, and pushing the boundaries of what's possible in the browser.
 Feel free to explore the projects, dive into the code, and provide any feedback or suggestions you may have.
