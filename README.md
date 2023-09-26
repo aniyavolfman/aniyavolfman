@@ -30,7 +30,7 @@ Feel free to explore the projects, dive into the code, and provide any feedback 
 
 ## Some projects:
 
-### -[Go-volunteer - a website for charity organization](https://www.go-volonteer.in.ua/);
+### -[Go-volunteer](https://www.go-volonteer.in.ua/) - a website for charity organization;
 
 ### -[Promptopia ](https://promptopia-eight-sigma.vercel.app/) is an open-source AI prompting tool for modern world to discover, create and share creative prompts;
 
