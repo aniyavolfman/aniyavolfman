@@ -5,8 +5,9 @@ I admire Java Script and am a highly motivated developer deeply passionate about
 
 ## As a Full-Stack Developer, I want to extend a warm welcome to all visitors of this repository.
 
-Here you will find an array of front-end, back-end and fullstack projects, showcasing my skills and passion for creating beautiful and interactive web interfaces.
+Here you will find an array of front-end, back-end and fullstack projects, showcasing my skills and passion for creating beautiful and interactive web interfaces. <br>
 I believe in the power of clean code, intuitive user experiences, and pushing the boundaries of what's possible in the browser.
+<br>
 Feel free to explore the projects, dive into the code, and provide any feedback or suggestions you may have.
 
 ## My technology stack:
