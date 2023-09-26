@@ -7,7 +7,7 @@ I believe in the power of clean code, intuitive user experiences, and pushing th
 Feel free to explore the projects, dive into the code, and provide any feedback or suggestions you may have.
 ## My technology stack:
 • HTML5;
-![html]([https://myoctocat.com/assets/images/base-octocat.svg](https://camo.githubusercontent.com/2ca35edb5184ebca8311e94199cc82681a52f9c160ead57356a718d9a2a1fee5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d6f72616e67653f7374796c653d666f722d7468652d6261646765266c6f676f3d48544d4c35266c6f676f436f6c6f723d666666)https://camo.githubusercontent.com/2ca35edb5184ebca8311e94199cc82681a52f9c160ead57356a718d9a2a1fee5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d6f72616e67653f7374796c653d666f722d7468652d6261646765266c6f676f3d48544d4c35266c6f676f436f6c6f723d666666)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 • CSS3;
 • JavaScript;
 • Next.js 13;
