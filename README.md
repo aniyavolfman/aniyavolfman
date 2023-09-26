@@ -29,14 +29,22 @@ Feel free to explore the projects, dive into the code, and provide any feedback 
 •<img src="/images/1_acfAKaDI7uv5GyFnJmiPhA.png" height="30">
 
 ## Some projects:
-### -[Go-volunteer - a website for charity organization](https://www.go-volonteer.in.ua/); 
-### -[Promptopia is an open-source AI prompting tool for modern world to discover, create and share creative prompts.](https://promptopia-eight-sigma.vercel.app/); 
-### -[SlimMom - application for health](https://aniyavolfman.github.io/health-app-project/);
-### -[Filmoteka - a site for searching films.](https://aniyavolfman.github.io/filmoteka/);
+
+### -[Go-volunteer - a website for charity organization](https://www.go-volonteer.in.ua/);
+
+### -[Promptopia ](https://promptopia-eight-sigma.vercel.app/) is an open-source AI prompting tool for modern world to discover, create and share creative prompts;
+
+### -[SlimMom ](https://aniyavolfman.github.io/health-app-project/)- application for health;
+
+### -[Filmoteka](https://aniyavolfman.github.io/filmoteka/) - a site for searching films;
+
 ### -[Phonebook](https://aniyavolfman.github.io/goit-react-hw-08-phonebook/);
+
 ### -[Search images](https://aniyavolfman.github.io/search-images/);
+
 ### -[Web Studio](https://aniyavolfman.github.io/goit-markup-hw-08/index.html);
-### -[Ice Cream - a site for an ice cream shop.](https://aniyavolfman.github.io/goit-markup-hw-08/index.html);
+
+### -[Ice Cream](https://aniyavolfman.github.io/team-project-scss/) - a site for an ice cream shop.
 
 Thank you for stopping by, and I hope you enjoy your time here!
 
