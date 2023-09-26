@@ -8,6 +8,7 @@ Feel free to explore the projects, dive into the code, and provide any feedback 
 ## My technology stack:
 • HTML5;
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/images/pngwing.com.png)
+<img src="/images/pngwing.com.png" width="50" height="50">
 • CSS3;
 • JavaScript;
 • Next.js 13;
