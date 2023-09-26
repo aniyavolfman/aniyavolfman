@@ -29,9 +29,10 @@ Feel free to explore the projects, dive into the code, and provide any feedback 
 •<img src="/images/1_acfAKaDI7uv5GyFnJmiPhA.png" height="30">
 
 ## Some projects
-### [Go-volunteer - a website for charity organization](https://www.go-volonteer.in.ua/). 
+### -[Go-volunteer - a website for charity organization](https://www.go-volonteer.in.ua/). 
+### -[Promptopia is an open-source AI prompting tool for modern world to discover, create and share creative prompts.](https://promptopia-eight-sigma.vercel.app/). 
 
-Thank you for stopping by, and I hope you enjoy your time here!
+## Thank you for stopping by, and I hope you enjoy your time here!
 
 <pre>Best regards,
 Anna</pre>
