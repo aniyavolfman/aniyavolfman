@@ -6,9 +6,9 @@ Here you will find an array of front-end, back-end and fullstack projects, showc
 I believe in the power of clean code, intuitive user experiences, and pushing the boundaries of what's possible in the browser.
 Feel free to explore the projects, dive into the code, and provide any feedback or suggestions you may have.
 ## My technology stack:
-• HTML5;
+
 <img src="/images/w3_html5-ar21.png" height="30">
-• CSS3;
+<img src="/images/CSS3-Interview-Questions-1.jpg" height="30">
 • JavaScript;
 • Next.js 13;
 • React;
