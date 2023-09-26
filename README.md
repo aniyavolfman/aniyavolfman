@@ -28,6 +28,9 @@ Feel free to explore the projects, dive into the code, and provide any feedback 
 •<img src="/images/1_-5w8bX-XiOtwdmhQ2W7_TA.png" height="30">
 •<img src="/images/1_acfAKaDI7uv5GyFnJmiPhA.png" height="30">
 
+## Some projects
+### [Go-volunteer - a website for charity organization](https://www.go-volonteer.in.ua/). 
+
 Thank you for stopping by, and I hope you enjoy your time here!
 
 <pre>Best regards,
