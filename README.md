@@ -3,7 +3,7 @@
 I admire Java Script and am a highly motivated developer deeply passionate about my craft.
 <br> I always think outside the box, like to study and code.
 <br>
-One of my hobbies is researching modern technologies, in particular AI.
+One of my hobbies is researching modern technologies, in particular AI. 🤖
 
 ## As a Full-Stack Developer, I want to extend a warm welcome to all visitors of this repository.
 
