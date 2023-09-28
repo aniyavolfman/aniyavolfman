@@ -1,6 +1,6 @@
 # Hi, I’m Anna Volfman ✨  
 ![aniyavolfman](/images/gifmaker_me.gif)
-I admire Java Script and am a highly motivated developer deeply passionate about my craft.
+<br>I admire Java Script and am a highly motivated developer deeply passionate about my craft.
 <br> I always think outside the box, like to study and code.
 <br>
 One of my hobbies is researching modern technologies, in particular AI. 🤖
