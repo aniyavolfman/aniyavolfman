@@ -1,4 +1,4 @@
-# Hi, I’m Anna Volfman ✨
+# Hi, I’m Anna Volfman ✨ <img src="/images/gifmaker_me.gif" height="30">
 
 I admire Java Script and am a highly motivated developer deeply passionate about my craft.
 <br> I always think outside the box, like to study and code.
