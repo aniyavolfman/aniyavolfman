@@ -50,7 +50,7 @@ Feel free to explore the projects, dive into the code, and provide any feedback 
 
 ### -[Ice Cream](https://aniyavolfman.github.io/team-project-scss/) - a site for an ice cream shop.
 
-## [My portfolio](https://aniyavolfman.github.io/portfolio/)
+## [My portfolio](https://aniyavolfman.github.io/portfolio/) 👆🏻
 
 Thank you for stopping by, and I hope you enjoy your time here!
 
