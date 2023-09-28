@@ -1,4 +1,5 @@
-# Hi, I’m Anna Volfman ✨  
+# Hi, I’m Anna Volfman ✨
+
 ![aniyavolfman](/images/gifmaker_me.gif)
 <br>I admire Java Script and am a highly motivated developer deeply passionate about my craft.
 <br> I always think outside the box, like to study and code.
@@ -48,6 +49,8 @@ Feel free to explore the projects, dive into the code, and provide any feedback 
 ### -[Web Studio](https://aniyavolfman.github.io/goit-markup-hw-08/index.html);
 
 ### -[Ice Cream](https://aniyavolfman.github.io/team-project-scss/) - a site for an ice cream shop.
+
+## [My portfolio](https://aniyavolfman.github.io/portfolio/)
 
 Thank you for stopping by, and I hope you enjoy your time here!
 
